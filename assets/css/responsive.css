@@ -1,0 +1,263 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    .custom-btn {
+		width: 35%;
+	}
+	.bg-first ul li {
+		font-size: 15px;
+	}
+	.why-choose {
+		padding: 0;
+	}
+	.registration-a img {
+		width: 100%;
+		min-height: 90px;
+	}
+	.arrow-left-a {
+		margin-top: 40px;
+	}
+	.text-l {
+		font-size: 14px;
+	}
+	.btn-calculate {
+		width: 25%;
+	}
+	.text-advance h2 {
+		font-size: 23px;
+	}
+	.text-why h2 {
+		margin: 8% 0 6%;
+	}
+	.menu-btn ul li a {
+		padding: 10px 0px;
+		font-size: 10px;
+	}
+	.menu-btn ul li {
+		margin-right: 1%;
+		padding: 10px 9px;
+	}
+	.social-icons ul li {
+		margin-left: 0; 
+		height: 36px;
+	}
+	.texts-align span {
+		font-size: 13px;
+	}
+	.menus-f-la.width-l, .menus-f-la.width-l2, .menus-f-la.width-l3 {
+		width: 33.333%;
+		float: left;
+	}
+	.menus-f-la.width-l ul li, .menus-f-la.width-l2 ul li,.menus-f-la.width-l3 ul li  {
+		display: block;
+		margin:0;
+	}
+	.m-custom {
+		width: 100%;
+	}
+	.texts-align, .text-rightss {
+		margin-top: 14%;
+		float: left;
+	}
+	.bg-first h2 {
+		font-size: 26pt;
+	}
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+	 .bg-first h2 {
+		font-size: 20pt;
+	}
+	.bg-first p {
+		font-size: 13pt;
+	}
+	.text-p {
+		width: 90%;
+		line-height: 22px;
+	}
+	.custom-btn {
+		width: 90%;
+	}
+	.bg-first ul li {
+		display: block;
+		font-size: 17px;
+		text-align: left;
+	}
+	.img-left-area h4 {
+		font-size: 16px;
+	}
+	.img-left-area p {
+		font-size: 14px;
+	}
+	.textarea-right p {
+		line-height: 25px;
+		font-size: 14px;
+	}
+	.registration-a img {
+		width: 50%;
+		height: auto;
+	}
+	.calculate-text h2 {
+		margin: 23px 0 32px;
+		font-size: 12px;
+	}
+	.text-l {
+		font-size: 15px;
+		margin-top: 12px;
+	}
+    .btn-calculate {
+		width: 100%;
+	}
+	.trader-partner {
+		min-height: 666px;
+	}
+	.text-advance h2 {
+		font-size: 15px;
+		line-height: 30px;
+	}
+	.text-advance span {
+		width: 100%;
+	}
+	.text-why h2 {
+		margin: 10% 0;
+		font-size: 16pt;
+	}
+	.text-how-it h2 {
+		margin: 30px 0;
+		font-size: 20pt;
+	}
+	.best-broker {
+		padding: 50px 0 30px;
+	}
+	.advantages-ins {
+		min-height: 480px;
+	}
+	.promotion-text h2 {
+		font-size: 14pt;
+	}
+	.menu-btn ul li {
+		margin-right: 0;
+		margin-top: 15px;
+	}
+	.social-icons {
+		margin-top: 30px;
+	}
+	.social-icons ul li {
+		margin-left: 0;
+	}
+	.menus-f-la.width-l, .menus-f-la.width-l2, .menus-f-la.width-l3 {
+		width: 100%;
+		display: block;
+	}
+	.menus-f-la ul li {
+		display: block;
+	}
+	.m-custom {
+		width: 100%;
+		margin-top: 29px;
+	}
+	.texts-align {
+		float: none;
+		text-align: center;
+	}
+	.text-rig {
+		float: none;
+		text-align: center;
+	}
+	.texts-align span {
+		margin: 20px 0;
+		display: block;
+	}
+	.ber-left {
+		display: none;
+	}
+	.icons-s {
+		top: 35%;
+	}
+	.hovereffect .overlay {
+		height: 55%;
+		top: 35%;
+	}
+	
+	
+	/* for menu */
+	.nav.navbar-nav.icon-li li {
+		display: inline-block;
+	}
+	.nav.navbar-nav.icon-li li a {
+		font-size: 13px;
+	}
+	.nav.navbar-nav.icon-li i {
+		font-size: 17px;
+	}
+	.nav.navbar-nav.icon-li li a {
+		padding: 10px 9px;
+	}
+	.dropdown, .dropdown.open {
+		padding-left: 12px;
+	}
+	.dropdown.open ul li {
+		display: block !important;
+	}
+	.dropdown.open {
+		display: block !important;
+	}
+	.custom-btn-p {
+		margin-bottom: 20px;
+	}
+	.navbar-brand {
+		width: 70%;
+		float: left;
+	}
+	.navbar-toggle {
+		margin-top: 28px;
+	}
+	
+	
+	
+	/* for modify */
+	.banner-area {
+		display: none;
+	}
+	.arrow-left-a img {
+		display: block;
+		transform: rotate(90deg);
+		margin-left: 43%;
+	}
+	.arrow-left-a {
+		margin: 35px 0;
+	}
+	.icons-s {
+		position: fixed;
+		left: 0;
+		top: 90%;
+		text-align: center;
+	}
+	.icons-s ul li {
+		display: inline-block;
+		width: 90px;
+		height: auto;
+		text-align: center;
+	}
+	.footer-area {
+		background-color: #666a75;
+		background-image: none;
+	}
+	.m-custom a {
+		color: #fff !important;
+		font-weight: bold;
+	}
+	.bottom-menu {
+		display: none;
+	}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+	.text-l {
+		font-size: 16px;
+	}
+}
